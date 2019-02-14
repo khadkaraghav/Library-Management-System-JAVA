@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public interface LibraryDAO {
 
-    void insert(Library cc);
+    void insert(Library library);
 
         boolean delete(int id);
 
